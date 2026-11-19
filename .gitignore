@@ -1,0 +1,4 @@
+.handoff-state.json
+*.bak
+*.bak*
+.DS_Store
